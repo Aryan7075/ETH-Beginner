@@ -51,7 +51,4 @@ Once the code is `compiled`, you can deploy the contract by clicking on the "Dep
 Once the contract is deployed, you can interact with it by calling the mint and burn functions. You can add and subtract tokens using the dropdown menu along the mint and burn functions and entering the value to be operated.
 
 # Author
-Aaditya Sinha
-[Twitter](twitter.com/aaadityasinha)
-[Telegram](t.me/aaditya_sinha)
-[Linkedin](https://www.linkedin.com/in/aaditya-sinha-53530723a)
+Aryan Sharma
